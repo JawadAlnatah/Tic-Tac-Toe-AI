@@ -1,9 +1,6 @@
 # Tic-Tac-Toe-AI
 Unbeatable Tic-Tac-Toe game using the Minimax algorithm. Built with Python and Pygame. CS50 AI project.
 
-# Tic-Tac-Toe AI
-
-An unbeatable Tic-Tac-Toe game built with Python and Pygame, featuring an AI opponent powered by the Minimax algorithm.
 
 ## About
 
