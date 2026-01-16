@@ -26,7 +26,7 @@ The AI looks ahead to all possible outcomes and always chooses the optimal path.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tictactoe-ai.git
+   git clone https://github.com/JawadAlnatah/Tic-Tac-Toe-AI.git
    cd tictactoe-ai
    ```
 
