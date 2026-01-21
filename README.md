@@ -46,15 +46,6 @@ The AI looks ahead to all possible outcomes and always chooses the optimal path.
 - Python 3.x
 - Pygame
 
-## Project Structure
-
-```
-├── runner.py          # Main game loop and Pygame interface
-├── tictactoe.py       # Game logic and Minimax AI implementation
-├── requirements.txt   # Project dependencies
-├── OpenSans-Regular.ttf   # Font file for the UI
-└── README.md
-```
 
 ## What I Learned
 
